@@ -1,5 +1,5 @@
 
-#  drone-corrosion-spray (AeroScan AI)
+#  drone-corrosion-spray
 
 Détection de corrosion par vision et pulvérisation ciblée par servo, avec dashboard web temps réel. Module logiciel d'un drone d'inspection et de traitement anti-corrosion, tournant sur **Raspberry Pi 5**.
 
@@ -47,7 +47,7 @@ Dashboard Flask ──► flux vidéo + statut en temps réel
 
 ---
 
-## 🔧 Matériel
+##  Matériel
 
 - Raspberry Pi 5
 - Caméra Raspberry Pi Module 3 (imx708), nappe CSI 22 broches
@@ -56,7 +56,7 @@ Dashboard Flask ──► flux vidéo + statut en temps réel
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/<ton-pseudo>/drone-corrosion-spray.git
